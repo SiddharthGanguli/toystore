@@ -1,0 +1,174 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.name {
+  display: flex;
+  height: 2rem;
+  margin-top: 0rem;
+  justify-content: center;
+  align-items: center;
+  width: 30%;
+  margin-left: 2.3rem;
+}
+.y {
+  color: #000;
+  text-shadow: 4px 02px 2px rgba(79, 77, 77, 0.469);
+  font-family: cursive;
+  font-size: 50px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: normal;
+}
+.ballon {
+  width: 100%;
+  height: 1rem;
+  border-bottom: 1px solid black;
+}
+.amic {
+  text-shadow: 4px 02px 2px rgba(79, 77, 77, 0.469);
+  color: #000;
+  font-family: Constantia;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: 0.5rem;
+  margin-right: 0.5rem;
+}
+.navbar {
+  width: 100%;
+  height: 3rem;
+  margin-top: -0.5rem;
+}
+.k {
+  float: left;
+  margin-top: 1rem;
+}
+.main {
+  width: 100%;
+  border-bottom: 1px solid black;
+}
+
+.one {
+  border-left: 1px solid black;
+  width: 30px;
+  height: 20px;
+  margin-top: -0.7rem;
+  margin-left: 0.02rem;
+  border-top-left-radius: 4.9;
+  rotate: -35deg;
+}
+.two {
+  border-left: 1px solid black;
+  width: 30px;
+  height: 20px;
+  margin-top: 6.5px;
+  margin-left: -11px;
+  border-top-left-radius: -1rem;
+  rotate: 39deg;
+}
+.icon {
+  display: flex;
+  justify-content: space-evenly;
+}
+.round {
+  width: 27px;
+  height: 27px;
+  margin: -5px;
+  margin-top: 17px;
+  border: 1px solid black;
+  border-radius: 100%;
+
+  background-image: url(icon\ teady.jpeg);
+  background-size: contain;
+  background-repeat: no-repeat;
+  rotate: 30deg;
+}
+.stand {
+  height: 12px;
+  width: 8px;
+  border-left: 2px solid black;
+  rotate: 5deg;
+  margin: 9px;
+  margin-top: 27px;
+}
+.inoformationbar {
+  width: 100%;
+  height: 17rem;
+  border: 1.5px solid black;
+  margin-top: 16px;
+  box-shadow: 0 -8px 9px -3px #333;
+  background-image: url(children-toys-in-train-cartoon-vector-20485006.jpg);
+  background-size: cover;
+}
+
+/* Content...*/
+.content {
+}
+.rone {
+  display: flex;
+}
+.rtwo {
+  display: flex;
+}
+.rthree {
+  display: flex;
+}
+.rfour {
+  display: flex;
+}
+.rfive {
+  display: flex;
+}
+.rsix {
+  display: flex;
+}
+.I {
+  width: 25%;
+  height: 16rem;
+  background-color: red;
+
+  border: 2px solid black;
+}
+
+.rI {
+  display: flex;
+}
+.II {
+  width: 33.1%;
+  height: 16rem;
+  background-color: rgb(223, 241, 131);
+
+  border: 2px solid black;
+}
+.mainI {
+  margin-top: 2rem;
+}
+.mainf {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+  height: 20rem;
+  background-color: #464545;
+  padding-top: 2rem;
+}
+p {
+  color: white;
+  font-style: initial;
+  padding-top: 2rem;
+}
+.btt {
+  width: 100%;
+  height: 2rem;
+  background-color: white;
+  text-align: center;
+}
+i {
+  color: black;
+}
+.copy {
+  background-color: #343434;
+  color: wheat;
+  text-align: center;
+}
